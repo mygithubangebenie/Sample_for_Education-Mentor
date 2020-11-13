@@ -1,16 +1,16 @@
 <h2>Table of content</h2>
-
-1.<h1> HTML Introduction </h1>
-1.1 What is a web page? 
-1.2 How does it work?
-1.3 What is HTML
-1.4 What a browser does
-1.5 Slow loading pages
-1.6 Where did HTML come from?
-1.7 The World Wide Web Consortium
-1.8 The importance of standards
-1.9 Terminology
-2.0 Quiz
+<ol>
+<li>1.<h1> HTML Introduction </h1></li>
+<li>1.1 What is a web page? </li>
+<li>1.2 How does it work?</li>
+<li>1.3 What is HTML</li>
+<li>1.4 What a browser does </li>
+<li>1.5 Slow loading pages </li>
+<li>1.6 Where did HTML come from? </li>
+<li>1.7 The World Wide Web Consortium </li>
+<li>1.8 The importance of standards </li>
+<li>1.9 Terminology </li>
+<li>2.0 Quiz </li>
 
 2. <h1>CSS Introduction</h1>
 2.1 Introduction
