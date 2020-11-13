@@ -1,6 +1,6 @@
 <h2>Table of content</h2>
 <ol>
-<li>1.<h1> HTML Introduction </h1></li>
+<li><h1> HTML Introduction </h1></li>
 <li>1.1 What is a web page? </li>
 <li>1.2 How does it work?</li>
 <li>1.3 What is HTML</li>
