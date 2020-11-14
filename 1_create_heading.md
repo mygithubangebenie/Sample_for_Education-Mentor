@@ -1,58 +1,58 @@
 ## Table of content
 
- 1. HTML Introduction 1
- 1. What is a web page? 2
- 1. How does it work? 3
- 1. What is HTML 4
- 1. What a browser does 5 
- 1. Slow loading pages 6
- 1. Where did HTML come from? 7
- 1. The World Wide Web Consortium 8
- 1. The importance of standards 9
- 1. Terminology 10
- 1. Quiz 11
+ 1. HTML Introduction 
+ 1. What is a web page?
+ 1. How does it work? 
+ 1. What is HTML 
+ 1. What a browser does  
+ 1. Slow loading pages 
+ 1. Where did HTML come from? 
+ 1. The World Wide Web Consortium 
+ 1. The importance of standards
+ 1. Terminology 
+ 1. Quiz 
 
 ## CSS Introduction
-2. Introduction 1
-2. The Box Model 2
-2. Positioning 3
-2. Responsive Design 4
-2. Debugging CSS Layout Issues 5
-2. Display Property 6
+1. Introduction 
+1. The Box Model 
+1. Positioning 
+1. Responsive Design 
+1. Debugging CSS Layout Issues 
+1. Display Property 
 
  ## JS 
-3. Introductions 1
-3. General 2
-3. Core 3
-3. Browser Object Model 4
-3. Events 5
-3. Document Object Model 6
-3. Data retrieval 7
+1. Introductions 
+1. General 
+1. Core 
+1. Browser Object Model 
+1. Events 
+1. Document Object Model 
+1. Data retrieval 
 
 ## Ruby
-4. Introduction to Ruby for Programmers 1
-4. ruby command-line tools 2
-4. Ruby Functions 3
-4. Types and Conversions 4
-4. Numbers,Strings, and Symbols 5
-4. Control Flow,Loops,Collections, and Arrays 6
+1. Introduction to Ruby for Programmers 
+1. ruby command-line tools 
+1. Ruby Functions 
+1. Types and Conversions 
+1. Numbers,Strings, and Symbols 
+1. Control Flow,Loops,Collections, and Arrays 
 
 ## Ruby algorithms 
-5. Available Libraries 1
-5. Write your First Algorithm 2
-5. Managing Dependencies 3
-5. I/O for your Algorithms 4
-5. Error Handling 5
-5. Algorithm Checklist 6
-5. Publish Algorithm 7
-5. Conclusion and Resources 8
+1. Available Libraries 
+1. Write your First Algorithm 
+1. Managing Dependencies 
+1. I/O for your Algorithms 
+1. Error Handling 
+1. Algorithm Checklist 
+1. Publish Algorithm 
+1. Conclusion and Resources 
 
  ## Git / Github
-6. Introduction 1
-6. Repo 2
-7. Branch 3
-8. Usage 4
-9. GitHub markup 5
+1. Introduction 
+1. Repo 
+1. Branch 
+1. Usage 
+1. GitHub markup 
 
 
 
