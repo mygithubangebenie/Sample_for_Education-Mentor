@@ -1,32 +1,58 @@
-<h2>Table of content</h2>
-<ol>
-<li><h1> HTML Introduction </h1></li>
-<li>1.1 What is a web page? </li>
-<li>1.2 How does it work?</li>
-<li>1.3 What is HTML</li>
-<li>1.4 What a browser does </li>
-<li>1.5 Slow loading pages </li>
-<li>1.6 Where did HTML come from? </li>
-<li>1.7 The World Wide Web Consortium </li>
-<li>1.8 The importance of standards </li>
-<li>1.9 Terminology </li>
-<li>2.0 Quiz </li>
+## Table of content
 
-2. <h1>CSS Introduction</h1>
-2.1 Introduction
-2.2 The Box Model
-2.3 Positioning
-2.4 Responsive Design
-2.5 Debugging CSS Layout Issues
-2.6 Display Property
+ 1. HTML Introduction 1
+ 1. What is a web page? 2
+ 1. How does it work? 3
+ 1. What is HTML 4
+ 1. What a browser does 5 
+ 1. Slow loading pages 6
+ 1. Where did HTML come from? 7
+ 1. The World Wide Web Consortium 8
+ 1. The importance of standards 9
+ 1. Terminology 10
+ 1. Quiz 11
 
-3 <h1> JS </h1>
-3.1 Introductions 
-3.2 General
-3.3 Core
-3.4 Browser Object Model
-3.5 Events
-3.6 Document Object Model
-3.7 Data retrieval
+## CSS Introduction
+2. Introduction 1
+2. The Box Model 2
+2. Positioning 3
+2. Responsive Design 4
+2. Debugging CSS Layout Issues 5
+2. Display Property 6
+
+ ## JS 
+3. Introductions 1
+3. General 2
+3. Core 3
+3. Browser Object Model 4
+3. Events 5
+3. Document Object Model 6
+3. Data retrieval 7
+
+## Ruby
+4. Introduction to Ruby for Programmers 1
+4. ruby command-line tools 2
+4. Ruby Functions 3
+4. Types and Conversions 4
+4. Numbers,Strings, and Symbols 5
+4. Control Flow,Loops,Collections, and Arrays 6
+
+## Ruby algorithms 
+5. Available Libraries 1
+5. Write your First Algorithm 2
+5. Managing Dependencies 3
+5. I/O for your Algorithms 4
+5. Error Handling 5
+5. Algorithm Checklist 6
+5. Publish Algorithm 7
+5. Conclusion and Resources 8
+
+ ## Git / Github
+6. Introduction 1
+6. Repo 2
+7. Branch 3
+8. Usage 4
+9. GitHub markup 5
+
 
 
