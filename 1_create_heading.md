@@ -1,9 +1,11 @@
 ## Table of content
+   
+## HTML Introduction
 
  1. HTML Introduction 
+ 1. What is HTML
  1. What is a web page?
- 1. How does it work? 
- 1. What is HTML 
+ 1. How does it work?  
  1. What a browser does  
  1. Slow loading pages 
  1. Where did HTML come from? 
@@ -53,6 +55,7 @@
 1. Branch 
 1. Usage 
 1. GitHub markup 
+
 
 
 
