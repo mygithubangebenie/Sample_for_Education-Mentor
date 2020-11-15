@@ -16,29 +16,29 @@ By the end of the course, students will be able to: create a page in html and st
 ## How does it work?
   To create html page or file there are several things like source code editor if your're using microsoft windows you have to use Notepad++ for linux you might use VScode or any editor with your wishes.
 
-  <<!DOCTYPE html>> declaration defines that this document is a html document
-  <<html>> element is the root element of html page
-  <<head>> element contains meta information about the html page
-  <<title>> element specifies a title for the HTML page
-  <<body>> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists
-  <<h1>> element defines a large heading
-  <<p>> element defines a paragraph 
-  <<br>> break lines
-  <<a>...</a>> These are tags, the content that falls between the opening and closing tags is the content of that element. An anchor link. 
+  `<!DOCTYPE html>` declaration defines that this document is a html document
+  `<html>` element is the root element of html page
+  `<head>` element contains meta information about the html page
+  `<title>` element specifies a title for the HTML page
+  `<body>` element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists
+  `<h1>` element defines a large heading
+  `<p>` element defines a paragraph 
+  `<br>` break lines
+  `<a> </a>` These are tags, the content that falls between the opening and closing tags is the content of that element. An anchor link. 
 
 # Example:
-<!DOCTYPE html>
-<html>
-<head>
-<title>Website Title</title>
-</head>
-<body>
+`<DOCTYPE html>`
+`<html>`
+`<head>`
+`<title>Website Title</title>`
+`</head>`
+`<body>`
 
-<h1> Hello This is my first Heading</h1>
-<p>Hey , Uzayisenga Amina is the cutetest girl<br>I would like to share with you my first paragraph.</p>
+`<h1>` Hello This is my first Heading`</h1>`
+`<p>`Hey , Uzayisenga Amina is the cutetest girl`<br>`I would like to share with you my first paragraph.`</p>`
 
-</body>
-</html>
+`</body>`
+`</html>`
 
 
 ## What a browser does?
@@ -125,7 +125,7 @@ The Core JavaScript Framework or "CoreJS" is a client-side JavaScript library wh
 
   The Browser Object Model (BOM) in JavaScript includes the properties and methods for JavaScript to interact with the web browser. BOM provides you with a window objects, for example, to show the width and height of the window. It also includes the window. screen object to show the width and height of the screen.
 
-  Eg:<!DOCTYPE html>
+  Eg:'DOCTYPE html>
 <html>
    <body>
       <script>
@@ -145,7 +145,7 @@ The Core JavaScript Framework or "CoreJS" is a client-side JavaScript library wh
   <html>
    <head>   
       <script type = "text/javascript">
-         <!--
+         '--
             function sayHello() {
                alert("Hello World")
             }
