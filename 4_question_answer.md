@@ -7,22 +7,20 @@ Here it is Database tables use student. Table names are plural.=> this will be s
 But Column names in the database use student, but are generally singular.
 
 Eg:
-+--------------------------+
-| bigfoot_sightings        |
-+------------+-------------+
-| id         | ID          |
-| sighted_at | DATETIME    |
-| location   | STRING      |
-| profile_id | FOREIGN KEY |
-+------------+-------------+
 
-+------------------------------+
-| profiles                     |
-+---------------------+--------+
-| id                  | ID     |
-| name                | STRING |
-| years_of_experience | INT    |
-+---------------------+--------+
+students | Id
+------------ | -------------
+sighted_at | DATETIME
+location | STRING
+profile_id | FOREIGN KEY
+
+
+profiles | Id
+------------ | -------------
+sighted_at | DATETIME
+name  | STRING
+years_of_experience | FINT
+
 
 Model class names use CamelCase. These are singular, and will map automatically to the plural database table name.Model attributes and methods use student and match the column names in the database.Model files go in app/models/#{singular_model_name}.rb
 
