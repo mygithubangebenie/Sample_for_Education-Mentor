@@ -1,9 +1,9 @@
 ### course objectives: 
-By the end of the course, students will be able to: create a page in html and style it. Add JS in the html page and make it look good.install ruby envirnoment  Deploy a project with ruby on rails and store a project on the github.
+```By the end of the course, students will be able to: create a page in html and style it```. ```Add JS in the html page and make it look good.install ruby envirnoment  Deploy a project with ruby on rails and store a project on the github```
 
 
 
------------------------------------Course development--------------------------
+-----------------------------------Course development-----------------------------
 
 # HTML Introduction 
 
@@ -125,15 +125,17 @@ The Core JavaScript Framework or "CoreJS" is a client-side JavaScript library wh
 
   The Browser Object Model (BOM) in JavaScript includes the properties and methods for JavaScript to interact with the web browser. BOM provides you with a window objects, for example, to show the width and height of the window. It also includes the window. screen object to show the width and height of the screen.
 
-  Eg:'DOCTYPE html>
-<html>
-   <body>
-      <script>
+  Eg:
+  
+  `<DOCTYPE html>`
+  `<html>`
+   `<body>`
+      `<script>`
          document.write("Screen width: " + screen.width);
          document.write("<br>Screen width: " + screen.width);
-      </script>
-   </body>
-</html>
+      `</script>`
+   `</body>`
+`</html>`
 
 
 ## What is an Event ?
@@ -545,22 +547,27 @@ Resources: Author ,Meghan Nelson
 on OCT 1, 2015
 Link: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
-or create a new repository on the command line
-echo "# t1" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/Uzayisenga/t1.git
-git push -u origin master
+1. or create a new repository on the command line
+1. echo "# t1" >> README.md
+1. git init
+1. git add README.md
+1. git commit -m "first commit"
+1. git branch -M master
+1. git remote add origin https://github.com/Uzayisenga/t1.git
+1. git push -u origin master
 
-or push an existing repository from the command line
-git remote add origin https://github.com/Uzayisenga/t1.git
-git branch -M master
-git push -u origin master
+1. or push an existing repository from the command line
+1. git remote add origin https://github.com/Uzayisenga/t1.git
+1. git branch -M master
+1. git push -u origin master
 
-**create new branch**: git checkout -b nameofbranch
-**Change branche**: git checkout nameofbranch
+1. **create new branch**: git checkout -b nameofbranch
+1. **Change branche**: git checkout nameofbranch
+1. **Fetch data from branch**: Git pull origin Branch
+1. Ignore changes **Git Stash** 
+
+
+*Thank you for taking your time and see trough this content*!!!
 
 
 
