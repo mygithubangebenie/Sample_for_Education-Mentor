@@ -15,15 +15,16 @@ By the end of the course, students will be able to: create a page in html and st
 
 ## How does it work?
   To create html page or file there are several things like source code editor if your're using microsoft windows you have to use Notepad++ for linux you might use VScode or any editor with your wishes.
-  <!DOCTYPE html> : declaration defines that this document is a html document
-  <html> element is the root element of html page
-  <head> element contains meta information about the html page
-  <title> element specifies a title for the HTML page
-  <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists
-  <h1> element defines a large heading
-  <p> element defines a paragraph 
-  <br> break lines
-  <a>...</a> These are tags, the content that falls between the opening and closing tags is the content of that element. An anchor link. 
+
+  <<!DOCTYPE html>> declaration defines that this document is a html document
+  <<html>> element is the root element of html page
+  <<head>> element contains meta information about the html page
+  <<title>> element specifies a title for the HTML page
+  <<body>> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists
+  <<h1>> element defines a large heading
+  <<p>> element defines a paragraph 
+  <<br>> break lines
+  <<a>...</a>> These are tags, the content that falls between the opening and closing tags is the content of that element. An anchor link. 
 
 # Example:
 <!DOCTYPE html>
